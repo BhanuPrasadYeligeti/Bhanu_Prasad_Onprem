@@ -1,0 +1,36 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_BHANU_3"
+     }
+    ],
+    "hash":"qlDRYe7ivE0t+sPbkJFRnuVgiXM="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_BHANU_4"
+     }
+    ],
+    "hash":"ddgHG6675qR9eyEbaQtnohgKcfU="
+   }
+  ]
+ }
+]
